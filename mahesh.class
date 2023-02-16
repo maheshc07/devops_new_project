@@ -2,6 +2,8 @@ class mahesh {
 
 		public static void main(String args[])
 		{
-		System.print.out("Hello My First Try");
+		System.out.println("Hello My First Try");
+		System.out.println("This is my second try");
 		}
+
 }
